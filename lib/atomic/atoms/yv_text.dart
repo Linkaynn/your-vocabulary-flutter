@@ -3,6 +3,7 @@ import 'package:your_vocabulary/styles/app.theme.dart';
 
 enum TextType { Title, Subtitle, Label, Paragraph }
 
+// Another commit
 class YVText extends StatelessWidget {
   final String text;
   final TextType type;
