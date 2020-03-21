@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
+// This class is a shit
 class LoginScreen extends StatelessWidget {
-  @override
   Widget build(BuildContext context) {
     return Container();
   }
